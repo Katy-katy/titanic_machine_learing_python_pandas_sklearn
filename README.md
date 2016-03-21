@@ -41,6 +41,6 @@ For this assignment we got 18 points or 18 possible and a comment that our resul
 Also, we got 885st/3661 at Kaggle competition:
 https://www.kaggle.com/etcareva/results
 
-![Mockup for feature A](https://github.com/Katy-katy/titanic_machine_learing_python_pandas_sklearn/blob/master/initial_data.png)
+![Mockup for feature A](https://github.com/Katy-katy/titanic_machine_learing_python_pandas_sklearn/blob/master/ScreenShot_result.png)
 
 ##Please, see "titanic_report.pdf" file for more details.
