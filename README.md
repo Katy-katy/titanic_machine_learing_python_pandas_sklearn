@@ -2,7 +2,7 @@
 
 This project is an assignment for CMPS_142 "Machine Learning" class at University of California Santa Cruz.
 
-We used dataset from https://www.kaggle.com/c/titanic and then we submitted our work to this site to see how good our algorithm works with new data.
+We used dataset from https://www.kaggle.com/c/titanic and then we submitted our work to this site to see how good our algorithm worked with new data.
 
 Initially we have:
 
@@ -34,9 +34,9 @@ Cabin -- Which cabin the passenger was in.
 Embarked -- Where the passenger boarded the Titanic.
 
 
-#Using gradient boosting classifier with random forest we got accuracy 0.79904
+#Using gradient boosting classifier with random forest we got an accuracy of 0.79904
 
-For this assignment we got 18 points or 18 possible and a comment that our result is very good.
+For this assignment we got 18 points of 18 possible and a comment that our results were very good.
 
 Also, we got 885st/3661 at Kaggle competition:
 https://www.kaggle.com/etcareva/results
