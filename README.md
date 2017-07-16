@@ -43,4 +43,6 @@ https://www.kaggle.com/etcareva/results
 
 ![Mockup for feature A](https://github.com/Katy-katy/titanic_machine_learing_python_pandas_sklearn/blob/master/ScreenShot_result.png)
 
-#Please, see "titanic_report.pdf" file for more details.
+Please, see "titanic_report.pdf" file for more details.
+
+Late, I added an Jupiter notebook with some additional visualizations using Seaborn (I did it for "Python for Data Science and Machine Learning Bootcamp")
